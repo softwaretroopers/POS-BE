@@ -4,6 +4,7 @@
 
 - 🌐 Author's Website - **https://kushen.tech**
 - 📫 How to reach the author - **kushendesilva@gmail.com**
+- Web-POS is a POS system, based on OSPOS developed using CodeIgniter.[^1]
 
 <h3 align="left">Connect with the Author:</h3>
 <p align="left">
@@ -17,5 +18,4 @@
 <h3 align="left">Support the Author:</h3>
 <p><a href="https://www.buymeacoffee.com/kushendesilva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kushendesilva" /></a><a href="https://ko-fi.com/kushendesilva"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kushendesilva" /></a></p><br><br><br>
 
-[^1]: Web-POS is a POS system, based on OSPOS developed using CodeIgniter.
-[^2]: Our goal is to be a close fork of the OSPOS that seeks to provide users with more options & more supported languages.
+[^1]: Our goal is to be a close fork of the OSPOS that seeks to provide users with more options & more supported languages.
